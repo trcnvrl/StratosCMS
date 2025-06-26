@@ -63,3 +63,29 @@ To get a local copy up and running, follow these simple steps.
     The server will start by default at `http://localhost:3000`.
 
 ## 📂 Project Structure
+├── src/
+│   ├── api/          # API Routes
+│   ├── config/       # Configuration files (db, etc.)
+│   └── modules/      # Plug-and-play modules
+├── .env              # Environment variables
+├── docker-compose.yml # Docker service definitions
+└── package.json
+
+## 🗺️ Roadmap
+
+* [x] Core System and Database Architecture
+* [ ] User Management and Authentication (JWT)
+* [ ] Dynamic Content Type Builder (Content Modeling)
+* [ ] Develop **Blog Module**
+* [ ] Develop **Page Management Module**
+* [ ] Admin Panel UI with React
+
+## 📜 License
+
+Distributed under the MIT License. See `LICENSE` file for more information.
+
+## 📞 Contact
+
+Tarcan Vural - [@trcnvrl](https://twitter.com/trcnvrl) - tarcanvural@gmail.com 
+
+Project Link: [https://github.com/YOUR_USERNAME/stratos-cms](https://github.com/trcnvrl/StratosCMS)
