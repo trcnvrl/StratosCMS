@@ -62,14 +62,6 @@ To get a local copy up and running, follow these simple steps.
     ```
     The server will start by default at `http://localhost:3000`.
 
-## 📂 Project Structure
-├── src/
-│   ├── api/          # API Routes
-│   ├── config/       # Configuration files (db, etc.)
-│   └── modules/      # Plug-and-play modules
-├── .env              # Environment variables
-├── docker-compose.yml # Docker service definitions
-└── package.json
 
 ## 🗺️ Roadmap
 
